@@ -1,8 +1,8 @@
 # 콜 (Kol) 프로그래밍 언어
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/your-repo/kol)
-[![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/your-repo/kol/blob/main/LICENSE)
-[![Version](https://img.shields.io/badge/version-0.1.0-informational)](https://github.com/your-repo/kol)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/smc0478/kol)
+[![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/smc0478/kol/blob/main/LICENSE)
+[![Version](https://img.shields.io/badge/version-1.0.0-informational)](https://github.com/smc0478/kol)
 
 '콜(Kol)'은 한국어의 자연스러운 문법을 그대로 코드로 옮겨, 누구나 쉽게 프로그래밍의 세계에 입문할 수 있도록 설계된 스크립트 언어입니다.
 
