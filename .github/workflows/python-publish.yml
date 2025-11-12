@@ -26,9 +26,13 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Build release distributions
+      - name: Install dependencies
         run: |
-          python -m pip install .
+          python -m pip install --upgrade pip
+          python -m pip install build wheel setuptools twine
+
+      - name: Build
+        run: python -m build
 
       - name: Upload distributions
         uses: actions/upload-artifact@v4
