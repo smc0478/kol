@@ -1,0 +1,4 @@
+
+class NoneObject:
+    pass
+
