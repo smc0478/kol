@@ -2,7 +2,7 @@
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/smc0478/kol)
 [![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/smc0478/kol/blob/main/LICENSE)
-[![PyPI version](https://badge.fury.io/py/kol.svg)](https://badge.fury.io/py/kol)
+[![PyPI version](https://badge.fury.io/py/korean-lang.svg)](https://badge.fury.io/py/korean-lang)
 
 '콜(Kol)'은 한국어의 자연스러운 문법을 그대로 코드로 옮겨, 누구나 쉽게 프로그래밍의 세계에 입문할 수 있도록 설계된 스크립트 언어입니다.
 
@@ -11,7 +11,7 @@
 ## 설치
 
 ```bash
-pip install kol
+pip install korean-lang
 ```
 
 ### "안녕하세요, 콜!"
