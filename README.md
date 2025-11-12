@@ -8,6 +8,12 @@
 
 ---
 
+## 설치
+
+```bash
+pip install kol
+```
+
 ### "안녕하세요, 콜!"
 
 ```kol
@@ -16,7 +22,7 @@
 
 **실행:**
 ```bash
-python3 콜.py hello.kol
+kol hello.kol
 ```
 
 **결과:**
@@ -35,21 +41,15 @@ python3 콜.py hello.kol
 
 ## 🚀 빠르게 시작하기
 
-1.  **저장소 복제**
+1.  **예제 파일 실행**
     ```bash
-    git clone https://github.com/your-repo/kol.git
-    cd kol
+    kol example/hello.kol
     ```
 
-2.  **예제 파일 실행**
-    ```bash
-    python3 콜.py example/hello.kol
-    ```
-
-3.  **디버그 모드 실행**
+2.  **디버그 모드 실행**
     디버그 모드로 실행하려면 `--디버그` 또는 `-디` 옵션을 추가합니다.
     ```bash
-    python3 콜.py example/hello.kol --디버그
+    kol example/hello.kol --디버그
     ```
 
 ## 📖 문서
