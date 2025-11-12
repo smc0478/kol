@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "korean-lang"
-version = "1.0.0"
+version = "1.0.1"
 authors = [
   { name="smc0478", email="smc0478@naver.com" },
 ]
